@@ -1,0 +1,24 @@
+.containers{
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+
+}
+button{
+    background-color: #008040;
+    border: 2px solid black;
+    width: 100px;
+    height: 40px;
+    color: black;
+}
+.thumbnail{
+    display: flex;
+}
+
+.caption{
+    padding-left: 50px;
+    width: 300px;
+}
+.img img{
+    border-radius: 50%;
+}

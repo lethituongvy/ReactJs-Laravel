@@ -1,0 +1,15 @@
+.register{
+    /* display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px; */
+    display: flex;
+}
+.input-group input{
+    width: 500px;
+}
+.register #form{
+float: left;
+}
+.register #video{
+    padding-left: 100px;
+}

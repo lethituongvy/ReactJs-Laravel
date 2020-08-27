@@ -1,0 +1,15 @@
+.gioithieu{
+    display: flex;
+}
+.tintuc{
+    height: 500px;
+    width: 600px;
+}
+.video{
+    margin-left: 100px;
+}
+.bodyy{
+    padding: 50px;
+    border: 4px solid white;
+    padding-left: 100px;
+}

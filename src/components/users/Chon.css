@@ -1,0 +1,33 @@
+.form{
+    display: flex;
+    padding: 50px;
+    padding-left: 200px;
+    background-color: bisque;
+    
+}
+.form button{
+    width: 100px;
+    height: 40px;
+}
+.form select{
+    border: 2px solid black;
+    padding: 10px;
+}
+#catem{
+    width: 360px;
+}
+#catec{
+    width: 190px;
+}
+h2{
+    padding-left: 400px;
+}
+.body{
+    width: 100%;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(1.1);
+}

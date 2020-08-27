@@ -1,0 +1,15 @@
+.text{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.imgs{
+    padding-left: 200px;
+}
+.info{
+    padding-left: 100px;
+}
+.button{
+    padding-left: 10%;
+    padding-top: 400px;
+}
